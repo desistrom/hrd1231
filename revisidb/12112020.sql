@@ -1,0 +1,1 @@
+ALTER TABLE `ds_today` ADD `punch_work` ENUM('wfh','wfo') NOT NULL DEFAULT 'wfo' AFTER `punch_out_desc`;

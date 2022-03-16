@@ -1,0 +1,182 @@
+[18-May-2015 20:21:57] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home2/dewanstu/public_html/reporting/application/models/project_mod.php on line 185
+[18-May-2015 21:20:31] PHP Parse error:  syntax error, unexpected '{' in /home2/dewanstu/public_html/reporting/application/views/project_report.php on line 29
+[15-Sep-2016 23:04:28 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home6/dewanstu/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 727
+[15-Sep-2016 23:14:49 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home6/dewanstu/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 727
+[15-Sep-2016 23:20:58 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home6/dewanstu/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 727
+[15-Sep-2016 23:24:33 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home6/dewanstu/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 727
+[15-Sep-2016 23:30:49 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home6/dewanstu/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 727
+[16-Sep-2016 00:30:22 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home6/dewanstu/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 727
+[17-Oct-2016 04:22:46 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home6/dewanstu/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 728
+[18-Oct-2016 04:15:56 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home6/dewanstu/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 728
+[18-Oct-2016 05:58:45 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home6/dewanstu/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 728
+[18-Oct-2016 07:23:36 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home6/dewanstu/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 728
+[27-Oct-2016 04:38:35 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home6/dewanstu/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 728
+[02-Nov-2016 04:20:09 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home6/dewanstu/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 728
+[07-Nov-2016 02:39:51 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home6/dewanstu/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 728
+[07-Nov-2016 02:42:49 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home6/dewanstu/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 728
+[27-Nov-2016 20:33:14 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home6/dewanstu/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 728
+[27-Nov-2016 20:36:10 America/Denver] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home6/dewanstu/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 728
+[03-Sep-2018 08:57:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard.php on line 638
+[03-Sep-2018 15:24:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '{' in /home/dewanstu/public_html/SIT/powermanagement/application/controllers/izin.php on line 489
+[03-Sep-2018 15:25:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ';' or '{' in /home/dewanstu/public_html/SIT/powermanagement/application/controllers/izin.php on line 593
+[04-Sep-2018 11:35:07 Asia/Jakarta] PHP Fatal error:  Call to undefined method Penilaian_mod::edit() in /home/dewanstu/public_html/SIT/powermanagement/application/controllers/penilaian.php on line 256
+[04-Sep-2018 16:09:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/dewanstu/public_html/SIT/powermanagement/application/controllers/absen.php on line 357
+[05-Sep-2018 16:31:56 Asia/Jakarta] PHP Fatal error:  Call to undefined method Penilaian_mod::edit() in /home/dewanstu/public_html/SIT/powermanagement/application/controllers/penilaian.php on line 256
+[10-Sep-2018 11:26:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING) in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 252
+[10-Sep-2018 11:27:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$year' (T_VARIABLE) in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 252
+[10-Sep-2018 11:28:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 252
+[10-Sep-2018 11:29:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$year' (T_VARIABLE) in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 252
+[10-Sep-2018 17:30:09 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 128761856 bytes) in /home/dewanstu/public_html/SIT/powermanagement/system/core/Exceptions.php on line 170
+[14-Sep-2018 16:48:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/dewanstu/public_html/SIT/powermanagement/application/controllers/cuti.php on line 385
+[20-Sep-2018 14:28:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 293
+[21-Sep-2018 15:10:06 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Cuti_mod::update_status() in /home/dewanstu/public_html/SIT/powermanagement/application/models/cuti_mod.php on line 228
+[21-Sep-2018 16:11:54 Asia/Jakarta] PHP Fatal error:  Cannot use object of type DateTime as array in /home/dewanstu/public_html/SIT/powermanagement/application/controllers/cuti.php on line 209
+[21-Sep-2018 16:12:52 Asia/Jakarta] PHP Fatal error:  Cannot use object of type DateTime as array in /home/dewanstu/public_html/SIT/powermanagement/application/controllers/cuti.php on line 209
+[24-Sep-2018 16:38:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'redirect' (T_STRING) in /home/dewanstu/public_html/SIT/powermanagement/application/controllers/reportproject.php on line 947
+[25-Sep-2018 15:03:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 589
+[27-Sep-2018 11:09:06 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:09:14 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:09:16 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:09:18 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:14:26 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:14:50 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:20:10 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:23:54 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:27:00 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:32:37 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:33:18 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:33:31 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:33:44 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:34:04 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:34:35 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:34:44 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:35:00 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:35:00 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:35:11 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:35:20 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:35:27 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:35:28 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:35:28 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:35:51 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 11:55:18 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 12:16:54 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 13:33:15 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 13:38:14 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 13:41:41 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 13:41:46 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 394
+[27-Sep-2018 13:45:07 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 394
+[27-Sep-2018 13:45:17 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 394
+[27-Sep-2018 13:45:21 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 394
+[27-Sep-2018 13:45:22 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 394
+[27-Sep-2018 13:45:23 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 394
+[27-Sep-2018 13:45:23 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 394
+[27-Sep-2018 13:45:30 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 394
+[27-Sep-2018 14:00:49 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 394
+[27-Sep-2018 14:03:13 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 394
+[27-Sep-2018 14:04:04 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 394
+[27-Sep-2018 14:06:05 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 394
+[27-Sep-2018 14:06:16 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 394
+[27-Sep-2018 14:06:28 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 394
+[27-Sep-2018 14:16:13 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 394
+[27-Sep-2018 14:16:21 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 394
+[27-Sep-2018 14:17:42 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 14:19:10 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 14:21:44 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 14:24:31 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 14:25:00 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 14:25:28 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 14:26:31 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 14:33:25 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 14:33:41 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 14:37:12 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 14:38:05 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dewanstu/public_html/SIT/powermanagement/application/views/dashboard_team.php on line 392
+[27-Sep-2018 17:06:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/dewanstu/public_html/SIT/powermanagement/application/controllers/printfile.php on line 26
+[27-Sep-2018 17:06:50 Asia/Jakarta] PHP Fatal error:  Class 'FPDF' not found in /home/dewanstu/public_html/SIT/powermanagement/application/controllers/printfile.php on line 37
+[27-Sep-2018 17:11:12 Asia/Jakarta] PHP Fatal error:  Class 'FPDF' not found in /home/dewanstu/public_html/SIT/powermanagement/application/controllers/printfile.php on line 37
+[27-Sep-2018 17:11:19 Asia/Jakarta] PHP Fatal error:  Class 'FPDF' not found in /home/dewanstu/public_html/SIT/powermanagement/application/controllers/printfile.php on line 37
+[27-Sep-2018 17:11:21 Asia/Jakarta] PHP Fatal error:  Class 'FPDF' not found in /home/dewanstu/public_html/SIT/powermanagement/application/controllers/printfile.php on line 37
+[27-Sep-2018 17:45:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'QUERY_STRING' (T_STRING) in /home/dewanstu/public_html/SIT/powermanagement/application/controllers/printfile.php on line 17
+[27-Sep-2018 17:46:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/dewanstu/public_html/SIT/powermanagement/application/controllers/printfile.php on line 443
+[01-Oct-2018 04:17:07 UTC] PHP Fatal error:  Can't use method return value in write context in /home/u9009356/public_html/pm/application/views/dashboard_team.php on line 277
+[01-Oct-2018 04:17:10 UTC] PHP Fatal error:  Can't use method return value in write context in /home/u9009356/public_html/pm/application/views/dashboard_team.php on line 277
+[01-Oct-2018 04:17:12 UTC] PHP Fatal error:  Can't use method return value in write context in /home/u9009356/public_html/pm/application/views/dashboard_team.php on line 277
+[01-Oct-2018 04:18:26 UTC] PHP Fatal error:  Can't use method return value in write context in /home/u9009356/public_html/pm/application/views/dashboard_team.php on line 278
+[01-Oct-2018 04:18:49 UTC] PHP Fatal error:  Can't use method return value in write context in /home/u9009356/public_html/pm/application/views/dashboard_team.php on line 278
+[01-Oct-2018 04:18:50 UTC] PHP Fatal error:  Can't use method return value in write context in /home/u9009356/public_html/pm/application/views/dashboard_team.php on line 278
+[01-Oct-2018 04:22:41 UTC] PHP Fatal error:  Can't use method return value in write context in /home/u9009356/public_html/pm/application/controllers/dashboard.php on line 149
+[01-Oct-2018 04:24:49 UTC] PHP Fatal error:  Can't use method return value in write context in /home/u9009356/public_html/pm/application/controllers/dashboard.php on line 213
+[01-Oct-2018 04:25:39 UTC] PHP Fatal error:  Can't use method return value in write context in /home/u9009356/public_html/pm/application/controllers/dashboard.php on line 213
+[01-Oct-2018 04:30:35 UTC] PHP Fatal error:  Can't use method return value in write context in /home/u9009356/public_html/pm/application/controllers/dashboard.php on line 213
+[01-Oct-2018 04:31:25 UTC] PHP Fatal error:  Can't use method return value in write context in /home/u9009356/public_html/pm/application/controllers/dashboard.php on line 213
+[01-Oct-2018 04:34:58 UTC] PHP Fatal error:  Can't use method return value in write context in /home/u9009356/public_html/pm/application/controllers/dashboard.php on line 213
+[01-Oct-2018 04:35:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/u9009356/public_html/pm/application/controllers/dashboard.php on line 213
+[01-Oct-2018 04:35:40 UTC] PHP Fatal error:  Can't use method return value in write context in /home/u9009356/public_html/pm/application/controllers/dashboard.php on line 213
+[08-Oct-2018 10:35:35 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ']' in /home/u9009356/public_html/pm/application/controllers/reportproject.php on line 1081
+[02-Nov-2018 10:10:44 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/u9009356/public_html/pm/application/controllers/absen.php on line 690
+[02-Nov-2018 10:10:49 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/u9009356/public_html/pm/application/controllers/absen.php on line 690
+[02-Nov-2018 10:11:24 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/u9009356/public_html/pm/application/controllers/absen.php on line 690
+[02-Nov-2018 10:11:27 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/u9009356/public_html/pm/application/controllers/absen.php on line 690
+[02-Nov-2018 10:11:28 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/u9009356/public_html/pm/application/controllers/absen.php on line 690
+[02-Nov-2018 10:11:29 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/u9009356/public_html/pm/application/controllers/absen.php on line 690
+[02-Nov-2018 10:11:30 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/u9009356/public_html/pm/application/controllers/absen.php on line 690
+[02-Nov-2018 10:11:32 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/u9009356/public_html/pm/application/controllers/absen.php on line 690
+[26-Nov-2018 07:18:02 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:18:32 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:18:40 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:18:42 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:19:09 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:26:40 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:29:20 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:29:21 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:29:21 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:29:21 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:29:22 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:29:22 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:29:22 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:29:22 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:29:22 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:29:23 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:29:23 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:29:23 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:29:23 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:29:23 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:29:24 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:29:24 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:29:24 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 07:29:24 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u9009356/public_html/pm/application/controllers/produk.php on line 117
+[26-Nov-2018 09:31:46 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/u9009356/public_html/pm/application/views/invoice_add.php on line 127
+[26-Nov-2018 09:55:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_pdf.php on line 295
+[26-Nov-2018 09:57:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_pdf.php on line 295
+[26-Nov-2018 10:00:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_pdf.php on line 295
+[26-Nov-2018 10:01:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_pdf.php on line 295
+[26-Nov-2018 10:01:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_pdf.php on line 295
+[26-Nov-2018 10:02:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_pdf.php on line 295
+[26-Nov-2018 10:02:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_pdf.php on line 295
+[26-Nov-2018 10:02:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_pdf.php on line 295
+[26-Nov-2018 10:02:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_pdf.php on line 295
+[26-Nov-2018 10:02:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_pdf.php on line 295
+[26-Nov-2018 10:02:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_pdf.php on line 295
+[26-Nov-2018 10:02:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_pdf.php on line 295
+[26-Nov-2018 10:02:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_pdf.php on line 295
+[26-Nov-2018 10:02:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_pdf.php on line 295
+[26-Nov-2018 10:02:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_pdf.php on line 295
+[26-Nov-2018 10:03:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_pdf.php on line 295
+[26-Nov-2018 10:04:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_pdf.php on line 295
+[29-Nov-2018 04:43:19 UTC] PHP Fatal error:  Call to undefined function int() in /home/u9009356/public_html/pm/application/controllers/invoice.php on line 53
+[29-Nov-2018 04:44:46 UTC] PHP Fatal error:  Call to undefined function int() in /home/u9009356/public_html/pm/application/controllers/invoice.php on line 53
+[29-Nov-2018 04:45:49 UTC] PHP Fatal error:  Call to undefined function int() in /home/u9009356/public_html/pm/application/controllers/invoice.php on line 53
+[29-Nov-2018 04:50:04 UTC] PHP Fatal error:  Call to undefined function int() in /home/u9009356/public_html/pm/application/controllers/invoice.php on line 53
+[29-Nov-2018 04:54:44 UTC] PHP Fatal error:  Call to undefined function int() in /home/u9009356/public_html/pm/application/controllers/invoice.php on line 53
+[29-Nov-2018 04:55:06 UTC] PHP Fatal error:  Call to undefined function int() in /home/u9009356/public_html/pm/application/controllers/invoice.php on line 53
+[29-Nov-2018 08:06:44 UTC] PHP Fatal error:  Call to undefined function int() in /home/u9009356/public_html/pm/application/views/invoice_penawaran.php on line 191
+[29-Nov-2018 08:07:22 UTC] PHP Fatal error:  Call to undefined function int() in /home/u9009356/public_html/pm/application/views/invoice_penawaran.php on line 191
+[29-Nov-2018 08:07:46 UTC] PHP Fatal error:  Call to undefined function int() in /home/u9009356/public_html/pm/application/views/invoice_penawaran.php on line 191
+[29-Nov-2018 08:09:53 UTC] PHP Fatal error:  Call to undefined function int() in /home/u9009356/public_html/pm/application/views/invoice_penawaran.php on line 191
+[29-Nov-2018 08:10:32 UTC] PHP Fatal error:  Call to undefined function int() in /home/u9009356/public_html/pm/application/views/invoice_penawaran.php on line 191
+[29-Nov-2018 08:11:55 UTC] PHP Fatal error:  Call to undefined function int() in /home/u9009356/public_html/pm/application/views/invoice_penawaran.php on line 191
+[29-Nov-2018 08:15:11 UTC] PHP Fatal error:  Call to undefined function int() in /home/u9009356/public_html/pm/application/views/invoice_penawaran.php on line 191
+[29-Nov-2018 08:15:58 UTC] PHP Fatal error:  Call to undefined function int() in /home/u9009356/public_html/pm/application/views/invoice_penawaran.php on line 191
+[29-Nov-2018 08:22:16 UTC] PHP Fatal error:  Call to undefined function int() in /home/u9009356/public_html/pm/application/views/invoice_penawaran.php on line 191
+[29-Nov-2018 09:02:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_penawaran_list.php on line 297
+[29-Nov-2018 09:03:02 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_penawaran_list.php on line 176
+[29-Nov-2018 09:04:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u9009356/public_html/pm/application/views/invoice_penawaran_list.php on line 176
